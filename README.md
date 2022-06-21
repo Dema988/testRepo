@@ -1,8 +1,2 @@
-# Computer Vision in Robotics
-
-<img src="./.img/logo_for_form.png" height="350" />
-
-
-Visit our site <https://www.starkitrobots.com/cvr> to check content.
-Course is online and will be carried out on our *[YouTube chanel](https://www.youtube.com/channel/UC0QPJgfg17wCqf4-hG_A5OA)*.
-Это новая строка 19.06.2022!
+# robofootball
+Репозиторий для курсов повышения квалификации  "Робофутбол" от команды Starkit
